@@ -21,7 +21,7 @@ Users should be able to:
 
 # Setup - Clone the Auth Template
 
-Clone the [Auth Template](https://github.com/SEB-13-Bahrain/auth-template) repository by following the steps provided in its `README.md`.
+Clone the [Auth Template](https://github.com/SEB-PT-9-Bahrain/session-auth-template) repository by following the steps provided in its `README.md`.
 
 Once everything is working, you will use that project as the starting point for this lab.
 
