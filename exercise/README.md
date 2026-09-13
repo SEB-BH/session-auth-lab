@@ -18,10 +18,10 @@ Your model should contain the following fields:
 
 ---
 
-# Part 2 - Create Controller and mount it in server.js
+# Part 2 - Create route and mount it in server.js
 
-1. Create a `entries.controllers.js` file. import the router from express and export it at the bottom of the file. (HINT: The `index.controllers.js` file has the code inside)
-2. Inside the `server.js` import the `entries.controllers.js` where you see `// controller Imports` (HINT: It should look almost exactly the same as the other 2 controller imports)
+1. Create a `entries.routes.js` file. import the router from express and export it at the bottom of the file. (HINT: The `index.routes.js` file has the code inside)
+2. Inside the `server.js` import the `entries.routes.js` where you see `// route Imports` (HINT: It should look almost exactly the same as the other 2 route imports)
 3. Where you see `// Routes go here` add `app.use()` and mount your routes on `/entries`. (HINT: should look almost exactly the same as the `/auth` routes mounting)
 
 # Part 3 - New Entry Page
